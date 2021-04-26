@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Hello, I'm Jimmy 🔥</h1>
+<h1 align="center">🔥 Hello, I'm Gabriel 🔥</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 - 🔭 I’m currently working on **CriticalDMG**
